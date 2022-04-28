@@ -1,0 +1,7 @@
+{
+  "appTitle": "Recraft",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "example": "example"
+}
